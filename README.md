@@ -64,6 +64,7 @@ Answers:
 1.  • I would have done research and used PropTypes (I'm more familiar using Typescript).
     • I would have added a spacing utility to the theme. (Utilising multiplications of a single base value)
     • I would have improved the API error handling defining each HTTP status code scenario.
+    • I would have used Git.
 
 2.  I think this page is hard to 'read' for the user as it contains different sections but they all look similar, maybe I would have added some icons to distinguish them. Also, the Mortgage link is not visually intuitive, maybe I would've added a button that redirects to the page.
     Furthermore, I would have made all the content fit within 100vh, as it is important for the user to visualise the button "Edit Account".
